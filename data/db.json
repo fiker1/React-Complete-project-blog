@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "steps of hacking",
+      "body": "1.Footprinting: the process of using passive methods of gaining information about the target system. Various methods are employed for footprinting, e.g. whois queries, Google (website) searches, job boards search, dissatisfied employee etc. ",
+      "author": "ltech",
+      "id": 1
+    },
+    {
+      "title": "stepes of hacking",
+      "body": "2.Scanning: the process of taking information obtained from the footprinting phase in order to target the attack more precisely. Some of the methods used are port scans, ping sweeps, OS detection, observation of facilities used by the target, etc.",
+      "author": "fkr",
+      "id": 2
+    },
+    {
+      "title": "tryblogs",
+      "body": "teyblogs body",
+      "author": "fkr",
+      "id": 9
+    }
+  ]
+}
